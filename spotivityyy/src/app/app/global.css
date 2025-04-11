@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #181818;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .btn {
+    background-color: #1db954;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .dropdown {
+    padding: 5px;
+    margin: 10px;
+  }
+  
+  .lyrics-box {
+    background: black;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  
